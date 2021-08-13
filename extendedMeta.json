@@ -1,11 +1,11 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/69080501/129312979-c5159f56-42a6-4c01-8eef-6791fd5f1008.png",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "London, England",
         "social": {
-            "twitter_handle": "AdapoolsO",
+            "twitter_handle": "HANABI stake pool［HNB1］by GOSHIKI",
             "telegram_handle": "adapools_ops",
             "facebook_handle": "",
             "youtube_handle": "",
