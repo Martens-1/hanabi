@@ -1,7 +1,7 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://user-images.githubusercontent.com/69080501/129312979-c5159f56-42a6-4c01-8eef-6791fd5f1008.png",
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/69080501/129464915-5dac9462-7d73-442a-9ed5-7d62b7c5f7cf.png",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "London, England",
         "social": {
